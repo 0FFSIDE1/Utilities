@@ -6,6 +6,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+.env
 venv/
 ENV/
 env.bak/
@@ -26,6 +27,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+images_/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
